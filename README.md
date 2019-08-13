@@ -1,5 +1,7 @@
 ## Bem + Saúde
 
+![Bem + Saúde - Logo](/logo.jpg)
+
 ## Bem vindo
 
 A clínica Bem + Saúde está de portas abertas para atender você
