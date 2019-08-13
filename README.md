@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Bem + Saúde
 
-You can use the [editor on GitHub](https://github.com/bemmaissaude/bemmaissaude.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Bem vindo
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A clínica Bem + Saúde está de portas abertas para atender você
 
-### Markdown
+### Quem somos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A Clínica Bem+ Saúde e Bem-estar, foi idealizada em janeiro de 2018 com a intenção de agregar diversas especialidades da área da saúde em uma mesma unidade. Com um ambiente acolhedor, o contato e a relação Terapeuta e paciente é a mais próxima possível, com o intuito de proporcionar as pessoas a possibilidade de um tratamento que possa considerar todos os aspectos do individuo e realizar um trabalho multidisciplinar.
 
-```markdown
-Syntax highlighted code block
+A proposta dos profissionais da Clínica Bem+ é oferecer o mais elevado padrão de atendimento, nas diferentes especialidades, em um ambiente bem estruturado e agradável, visando proporcionar um atendimento de excelencia, acolhendo a sua demanda de forma singular, visando sempre a saúde, bem-estar e a qualidade de vida do paciente.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Missão
+```
+Atender de forma personalizada os clientes que nos procuram
+para realizar consultas e acompanhamentos com intuito de investigar
+diversas doenças, com tratamentos apropriados e específicos para a
+melhoria da saúde e do bem-estar de cada paciente.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Valores
+```
+Nós da Clínica Bem+ Saúde e Bem-estar acreditamos que a confiança é a base do relacionamento com nossos clientes e parceiros, e por isso, norteamos todo o nosso atendimento nos seguintes valores:
+- Satisfação do Cliente
+- Respeito
+- Competência Técnica
+- Trabalho em Equipe
+- Aperfeiçoamento Contínuo
+- Profissionalismo.
+```
 
-### Jekyll Themes
+### Contato
+Entre em contato conosco: [E-mail](mailto:bemmaiscomercial@gmail.com)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bemmaissaude/bemmaissaude.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Endereço: [São Paulo - SP, Avenida Liberdade, nº 1000 – sala 1506](https://www.google.com/maps/place/Av.+da+Liberdade,+1000+-+Liberdade,+São+Paulo+-+SP,+01502-001/)
