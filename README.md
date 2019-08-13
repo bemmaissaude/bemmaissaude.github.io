@@ -12,10 +12,7 @@ A proposta dos profissionais da Clínica Bem+ é oferecer o mais elevado padrão
 
 ## Missão
 ```
-Atender de forma personalizada os clientes que nos procuram
-para realizar consultas e acompanhamentos com intuito de investigar
-diversas doenças, com tratamentos apropriados e específicos para a
-melhoria da saúde e do bem-estar de cada paciente.
+Atender de forma personalizada os clientes que nos procuram para realizar consultas e acompanhamentos com intuito de investigar diversas doenças, com tratamentos apropriados e específicos para a melhoria da saúde e do bem-estar de cada paciente.
 ```
 
 ## Valores
